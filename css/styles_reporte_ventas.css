@@ -1,0 +1,86 @@
+body {
+    background-color: #e9d9df;
+    font-family: 'Segoe UI', sans-serif;
+
+}
+
+/* Título */
+.titulo {
+    background-color: #e6b3c6;
+    padding: 10px 25px;
+    border-radius: 8px;
+    color: #6d214f;
+    font-weight: bold;
+    width: 100%;
+}
+
+/* Icono Home */
+.icono-home {
+    font-size: 2rem;
+    color: #e84393;
+}
+
+/* Filtros */
+.filtro {
+    background-color: #e6b3c6;
+    border: none;
+    color: #6d214f;
+    font-weight: 500;
+}
+
+/* Contenedor tabla */
+.tabla-container {
+    background-color: #f3c1d3;
+    border-radius: 10px;
+}
+
+/* Tabla */
+.tabla-ventas thead {
+    background-color: #e6a0bd;
+}
+
+.tabla-ventas th {
+    color: #000;
+    font-weight: bold;
+    border: none;
+}
+
+.tabla-ventas td {
+    font-weight: 500;
+    border: none;
+}
+
+/* Card resumen */
+.resumen-card {
+    background-color: #ffffff;
+    border-radius: 10px;
+    border-left: 3px solid #6d214f;
+}
+
+/* Gráfico */
+.grafico {
+    height: 150px;
+}
+
+.barra {
+    width: 30px;
+    background-color: #2ecc71;
+    border-radius: 5px 5px 0 0;
+}
+
+/* Zoom */
+.icono-zoom {
+    font-size: 1.5rem;
+    color: #6d214f;
+    cursor: pointer;
+}
+
+.icono-zoom:hover {
+    color: #e84393;
+}
+
+/* Footer */
+.footer {
+    background-color: #ff007f;
+    margin-top: 40px;
+}

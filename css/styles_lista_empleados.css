@@ -1,0 +1,64 @@
+body {
+    background-color: #fff1f5;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+/* Título */
+
+
+/* Icono Home */
+.icono-home {
+    font-size: 2rem;
+    color: #e84393;
+}
+
+/* Botón ordenar */
+.btn-orden {
+    background-color: #e6b3c6;
+    color: #6d214f;
+    border-radius: 8px;
+    font-weight: 500;
+}
+
+.btn-orden:hover {
+    background-color: #d99ab3;
+}
+
+/* Tarjeta empleado */
+.empleado-card {
+    border: none;
+    border-left: 5px solid #ffd7e7;
+    border-radius: 12px;
+    background-color: #ffffff;
+}
+
+/* Foto redonda */
+.foto {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+/* Nombre */
+.nombre {
+    color: #6d214f;
+    font-weight: 600;
+}
+
+/* Icono editar */
+.editar {
+    font-size: 1.5rem;
+    color: #c44569;
+    cursor: pointer;
+}
+
+.editar:hover {
+    color: #a8325a;
+}
+
+/* Footer */
+.footer {
+    background-color: #ff007f;
+    margin-top: 40px;
+}
